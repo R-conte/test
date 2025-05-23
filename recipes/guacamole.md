@@ -1,10 +1,11 @@
 # Guacamole
 ## Ingredients
-* avocado
-* lemon
-* salt
-* lime
-## Instructions# Guacamole
+* avocado $5
+* lemon $2
+* salt $0.1
+* lime $2
+## Instructions
 ## Ingredients
 ## Instructions
 ## Fin
+
